@@ -20,6 +20,7 @@
         .pic{
             border-radius: 30px;
             margin-bottom: 10px;
+            justify-self: center;
         }
         #imagediv{
             justify-content:center;
