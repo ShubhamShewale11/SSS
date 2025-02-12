@@ -40,6 +40,9 @@
         padding: 10px;
         border-radius: 50px;
         font-family:'Times New Roman', Times, serif;
+            display: block;
+    width: fit-content; /* Or a fixed width if needed */
+    margin: 0 auto;
        }
        #edusection{
          font-weight: bolder;
