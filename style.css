@@ -19,7 +19,10 @@
         }
         .pic{
             border-radius: 30px;
-         
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
             margin-bottom: 10px;
         }
         #mr{
@@ -27,6 +30,7 @@
             text-decoration: underline;
             margin-bottom: 5px;
             margin-top: -5px;
+            text-align: center;
        }
        #educations{
         justify-self: center;
