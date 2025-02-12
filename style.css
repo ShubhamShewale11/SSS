@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+        #shubham{
+            font-size: 25px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .text-lg{
+            justify-self: center;
+            border: 2px solid orange;
+            padding: 15px;
+            border-radius: 30px;
+            background-color: white;
+        }
+        .pic{
+            border-radius: 30px;
+            justify-self: center;
+            margin-bottom: 10px;
+        }
+        #mr{
+            font-weight: bold;
+            text-decoration: underline;
+            margin-bottom: 5px;
+            margin-top: -5px;
+       }
+       #educations{
+        justify-self: center;
+        color: rgb(0, 115, 255);
+        border: 2px solid orangered;
+        padding: 10px;
+        border-radius: 50px;
+        font-family:'Times New Roman', Times, serif;
+       }
+       #edusection{
+         font-weight: bolder;
+       }
+
+       #intern{
+        text-align: center;
+       }
+       #hum{
+        text-align: center;
+       }
+       #cod{
+        text-align: center;
+       }
+       #codtech{
+        text-align: center;
+       }
+       #certi{
+        font-weight: bold;
+       }
