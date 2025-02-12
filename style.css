@@ -23,6 +23,7 @@
         }
         #imagediv{
             justify-content:center;
+            text-align:self;
         }
         #mr{
             font-weight: bold;
